@@ -59,3 +59,31 @@
     width: 100%;
     height: 100%;
 }
+
+/*----------------------------Seccion de middle-label----------------------------------------------*/
+.middle-label {
+    display: inline-block;
+    background-color: aqua;
+    width: 100%;
+    padding: 0%;
+    border-radius: 2%;
+    filter: opacity(90%);
+}
+
+.middle-label__h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    padding-left: 25%;
+    padding-top: 3%;
+    margin: auto;
+    font-size: 5vw;
+}
+
+.middle-label__h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    padding: 5%;
+    margin: auto;
+    font-size: 5vw;
+    text-align: center;
+}
